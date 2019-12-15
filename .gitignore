@@ -1,5 +1,9 @@
 # Object file
 *.o
+data.dt
+imbang_data.dt
 
 # Ada Library Information
 *.ali
+data.dt
+imbang_data.dt
